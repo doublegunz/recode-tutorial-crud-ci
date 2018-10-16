@@ -6,6 +6,6 @@
 </head>   
 <body>   
 	<p><?php echo $msg; ?></p>   
-	<p><?php echo anchor('crud_ci','Kembali'); ?></p>   
+	<p><?php echo anchor('mahasiswa','Kembali'); ?></p>   
 </body>   
 </html>   
