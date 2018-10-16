@@ -5,7 +5,7 @@
 		<title>TAMBAH Data MAHASISWA</title>   
 	</head>   
 	<body>   
-		<?php echo form_open('crud_ci/form_insert'); ?>   
+		<?php echo form_open('mahasiswa/create'); ?>   
 		<table border=0 width="45%" cellpadding="5" cellspacing="0">   
 			<tr bgcolor="silver">   
 				<td Colspan="3" align="center"><H3>DATA MAHASISWA</H3></td>   
@@ -52,7 +52,7 @@
 				<td colspan="3">   
 					<input type="submit" value="TAMBAH">   
 					<input type="reset" value="BATAL">   
-					[<a href="<?php echo base_url(); ?>index.php/crud_ci">Lihat Data Mahasiswa</a>]   
+					[<a href="<?php echo base_url(); ?>index.php/mahasiswa">Lihat Data Mahasiswa</a>]   
 				</td>   
 			</tr>    
 		</table>   
