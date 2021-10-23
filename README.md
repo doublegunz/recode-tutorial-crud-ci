@@ -2,4 +2,4 @@
 Repositori seri tutorial CodeIgniter: CRUD Sederhana CodeIgniter 
 
 ## Link Tutorial
-Tutorial dapat dilihat [di sini](https://gungunpriatna.netlify.com/post/crud-sederhana-code-igniter).
+Tutorial dapat dilihat [di sini](https://qadrlabs.com/post/crud-sederhana-codeigniter).
